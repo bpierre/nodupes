@@ -39,7 +39,7 @@ Options:
 
 ```javascript
 var options = {
-  names: {},           // Load a pre-existing names index.
+  names: {},           // Load a pre-existing names index (see `nd.getNames()`).
   suffixFirst: false,  // Add a suffix on the first appearance of a name.
   separator: '-'       // Change the suffix separator.
 };
@@ -48,6 +48,10 @@ var options = {
 ### nd('name')
 
 Returns the name with an appended suffix if needed.
+
+### nd.getNames()
+
+Returns the names index that you can pass to `nodupes()` with `options.names`.
 
 ## Installation
 

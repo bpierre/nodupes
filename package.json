@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "author": "Pierre Bertet <bonjour@pierrebertet.net> (http://pierrebertet.net/)",
   "repository": {
+    "type": "git",
     "url": "git://github.com/bpierre/nodupes.git"
   },
   "main": "index.js",

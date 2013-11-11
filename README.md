@@ -1,6 +1,6 @@
 # nodupes
 
-Prevent duplicate names by appending an incremented prefix.
+Prevent duplicate names by appending an incremented suffix.
 
 ## Examples
 

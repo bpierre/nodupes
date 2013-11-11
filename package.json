@@ -1,6 +1,6 @@
 {
   "name": "nodupes",
-  "description": "Prevent duplicate names by appending an incremented prefix.",
+  "description": "Prevent duplicate names by appending an incremented suffix.",
   "version": "0.0.1",
   "author": "Pierre Bertet <bonjour@pierrebertet.net> (http://pierrebertet.net/)",
   "repository": {

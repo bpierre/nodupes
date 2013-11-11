@@ -1,7 +1,7 @@
 {
   "name": "nodupes",
   "description": "Prevent duplicate names by appending an incremented suffix.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Pierre Bertet <bonjour@pierrebertet.net> (http://pierrebertet.net/)",
   "repository": {
     "url": "git://github.com/bpierre/nodupes.git"

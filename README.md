@@ -2,6 +2,8 @@
 
 Prevent duplicate names by appending an incremented suffix.
 
+[![Build Status](https://travis-ci.org/bpierre/nodupes.png?branch=master)](https://travis-ci.org/bpierre/nodupes)
+
 ![nodupes illustration](http://scri.ch/kaa.png)
 
 ## Examples

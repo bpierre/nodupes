@@ -2,6 +2,8 @@
 
 Prevent duplicate names by appending an incremented suffix.
 
+![nodupes illustration](http://scri.ch/kaa.png)
+
 ## Examples
 
 ### example/nodupes.js
@@ -62,3 +64,7 @@ $ npm install nodupes
 ## License
 
 [MIT](http://pierre.mit-license.org/)
+
+## Credits
+
+Illustration made by [Raphaël Bastide](http://raphaelbastide.com/) with [scri.ch](http://scri.ch/).

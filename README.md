@@ -4,7 +4,7 @@ Prevent duplicate names by appending an incremented suffix.
 
 [![Build Status](https://travis-ci.org/bpierre/nodupes.png?branch=master)](https://travis-ci.org/bpierre/nodupes)
 
-![nodupes illustration](http://scri.ch/kaa.png)
+<img src="http://scri.ch/kaa-2x.png" width="603" alt="">
 
 ## Examples
 
